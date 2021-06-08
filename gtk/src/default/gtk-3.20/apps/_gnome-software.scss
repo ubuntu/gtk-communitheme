@@ -55,3 +55,8 @@ box>list row.list-box-app-row {
     padding-right: 2px;
     box-shadow: inset 0 0 10px 10px $success_color;
 }
+
+// Sadly drop the backgroud because it is bugged - we should found another solution
+.app-listbox-header {
+    background: $dark_fill;
+}
