@@ -19,3 +19,4 @@ foreach component: components
 endforeach
 
 subdir('communitheme-compat')
+subdir('gtk/src/inverted')
